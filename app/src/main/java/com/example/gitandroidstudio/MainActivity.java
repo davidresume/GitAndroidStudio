@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("GitAndroidStudioMain","Message!");
         Log.d("GitAndroidStudioMain","This is debug info");
+        Log.d("GitAndroidStudioMain","This is debug info");
     }
 }
